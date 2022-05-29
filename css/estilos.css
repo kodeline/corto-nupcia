@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier Prime', monospace;
+    background-color: rgb(30, 29, 29);
+}
+
+.emoji{
+    font-size: 40px;
+}
+
+header{
+    margin-top: 2%;
+    color: rgb(238, 237, 237);
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    margin: 0;
+}
+
+.avatar{
+    height: 200px;
+    width: 200px;
+    border-radius: 60%;
+}
+
+.boton {
+    background-color: rgb(193, 51, 74);
+    color: rgb(227, 221, 221);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px; 
+    margin-top: 20px; 
+    display: block;  
+}
+
+.redes a{
+    color: rgb(227, 221, 221);
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;  
+    font-size: 35px; 
+}
+
+h3 {
+    font-size: 28px;
+    margin-bottom: 0;
+}
